@@ -1,6 +1,6 @@
 \<theme name> \<version>
 =====
-Child theme of Flint. <description>
+Child theme of Flint. \<description>
 
 ```
 <theme name> is a child theme of Flint http://sparks.starverte.com/flint
