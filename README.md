@@ -1,4 +1,4 @@
-<theme name> <version>
+\<theme name> \<version>
 =====
 Child theme of Flint. <description>
 
