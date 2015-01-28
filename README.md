@@ -4,7 +4,7 @@ Child theme of Flint. <description>
 
 ```
 <theme name> is a child theme of Flint http://sparks.starverte.com/flint
-(C) 2013-2014 Star Verte LLC
+(C) 2013-2015 Star Verte LLC
 Licensed under the GNU General Public License v3.0, http://www.gnu.org/licenses/gpl.html
 ```
 
